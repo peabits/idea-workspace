@@ -33,7 +33,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
   <component name="ProjectId" id="1PlMPsZB7gLsjwoyAmy63XS9V0G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -41,13 +46,14 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Git/bin/git.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -67,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoLinkedListCommonPartTest">
+  <component name="RunManager" selected="Application.MergeIntervalsTest">
     <configuration name="MatrixTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.issue9.test.MatrixTest" />
       <module name="程序员代码面试指南 —IT名企算法与数据结构题目最优解" />
@@ -107,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxWindowTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.issue7.test.MaxWindowTest" />
-      <module name="程序员代码面试指南 —IT名企算法与数据结构题目最优解" />
+    <configuration name="MergeIntervalsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="issue56.MergeIntervalsTest" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.issue7.test.*" />
+          <option name="PATTERN" value="issue56.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeIntervalsTest" />
         <item itemvalue="Application.TwoLinkedListCommonPartTest" />
         <item itemvalue="Application.MaxMinusMinLENumTest" />
         <item itemvalue="Application.MatrixTest" />
         <item itemvalue="Application.MaxTreeTest" />
-        <item itemvalue="Application.MaxWindowTest" />
       </list>
     </recent_temporary>
   </component>
@@ -157,11 +163,23 @@
       <workItem from="1566529128577" duration="21202000" />
       <workItem from="1566551958070" duration="9488000" />
       <workItem from="1566618759836" duration="9844000" />
+      <workItem from="1566704574796" duration="1262000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

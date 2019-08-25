@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/idea-algorithm.iml" filepath="$PROJECT_DIR$/idea-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/程序员代码面试指南 —IT名企算法与数据结构题目最优解.iml" filepath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/程序员代码面试指南 —IT名企算法与数据结构题目最优解.iml" />
       <module fileurl="file://$PROJECT_DIR$/编程之美 —微软技术面试心得/编程之美 —微软技术面试心得.iml" filepath="$PROJECT_DIR$/编程之美 —微软技术面试心得/编程之美 —微软技术面试心得.iml" />
     </modules>
