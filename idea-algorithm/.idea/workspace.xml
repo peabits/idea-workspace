@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddb36d1d-8a73-4d15-9af3-c92264a86eed" name="Default Changelist" comment="" />
+    <list default="true" id="ddb36d1d-8a73-4d15-9af3-c92264a86eed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue2/solution/RemoveSingleLinkedListLastKthNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue2/solution/RemoveLastKthNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea-demo/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +51,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -164,6 +169,7 @@
       <workItem from="1566551958070" duration="9488000" />
       <workItem from="1566618759836" duration="9844000" />
       <workItem from="1566704574796" duration="1262000" />
+      <workItem from="1566975124192" duration="6094000" />
     </task>
     <servers />
   </component>
@@ -175,7 +181,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
