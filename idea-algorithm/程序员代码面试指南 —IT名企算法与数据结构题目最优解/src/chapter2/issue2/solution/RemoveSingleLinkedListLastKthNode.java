@@ -20,8 +20,8 @@ public class RemoveSingleLinkedListLastKthNode {
     private void buildSingleLinkedList(int[] arr) {
         if (arr != null && arr.length != 0) {
             Node preNode = this.head = new Node(arr[0]);
-            for (int i : arr) {
-                preNode = preNode.next = new Node(i);
+            for (int i = 1; i < arr.length; i++) {
+                preNode = preNode.next = new Node(arr[i]);
             }
         }
     }

@@ -2,10 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddb36d1d-8a73-4d15-9af3-c92264a86eed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue2/solution/RemoveSingleLinkedListLastKthNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue2/solution/RemoveLastKthNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../idea-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/META-INF/程序员代码面试指南 —IT名企算法与数据结构题目最优解.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue1/solution/TwoLinkedListCommonPartTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue2/solution/AbstractMyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue2/solution/MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue2/solution/MyQueue1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue2/solution/MyQueue2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue2/test/MyQueueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue3/solution/ReverseAStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue3/test/ReverseAStackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue4/solution/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue4/solution/CatAndDogQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue4/solution/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue4/solution/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue4/solution/PetWithOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue4/test/CatAndDogQueueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue5/solution/SortAStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/程序员代码面试指南 —IT名企算法与数据结构题目最优解/chapter2/issue5/test/SortAStackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue2/solution/RemoveDoubleLinkedListLastKthNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue2/solution/RemoveDoubleLinkedListLastKthNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue2/solution/RemoveSingleLinkedListLastKthNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue2/solution/RemoveSingleLinkedListLastKthNode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +59,9 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1PlMPsZB7gLsjwoyAmy63XS9V0G" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -51,7 +69,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,6 +80,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\JetBrains\idea-workspace\idea-algorithm\程序员代码面试指南 —IT名企算法与数据结构题目最优解\src\chapter2" />
       <recent name="D:\Program Files\JetBrains\idea-workspace\idea-algorithm\程序员代码面试指南 —IT名企算法与数据结构题目最优解\src" />
       <recent name="D:\Program Files\JetBrains\idea-workspace\idea-algorithm\程序员代码面试指南 —IT名企算法与数据结构题目最优解\src\chapter1" />
     </key>
@@ -78,52 +97,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeIntervalsTest">
-    <configuration name="MatrixTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.issue9.test.MatrixTest" />
-      <module name="程序员代码面试指南 —IT名企算法与数据结构题目最优解" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter1.issue9.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxMinusMinLENumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.issue10.test.MaxMinusMinLENumTest" />
-      <module name="程序员代码面试指南 —IT名企算法与数据结构题目最优解" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter1.issue10.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxTreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.issue8.test.MaxTreeTest" />
-      <module name="程序员代码面试指南 —IT名企算法与数据结构题目最优解" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter1.issue8.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration name="MergeIntervalsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="issue56.MergeIntervalsTest" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="issue56.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.issue3.test.Test" />
+      <module name="程序员代码面试指南 —IT名企算法与数据结构题目最优解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.issue3.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.issue4.test.Test" />
+      <module name="程序员代码面试指南 —IT名企算法与数据结构题目最优解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.issue4.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.issue2.test.Test" />
+      <module name="程序员代码面试指南 —IT名企算法与数据结构题目最优解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.issue2.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.MergeIntervalsTest" />
         <item itemvalue="Application.TwoLinkedListCommonPartTest" />
-        <item itemvalue="Application.MaxMinusMinLENumTest" />
-        <item itemvalue="Application.MatrixTest" />
-        <item itemvalue="Application.MaxTreeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +189,7 @@
       <workItem from="1566618759836" duration="9844000" />
       <workItem from="1566704574796" duration="1262000" />
       <workItem from="1566975124192" duration="6094000" />
+      <workItem from="1567063299360" duration="5187000" />
     </task>
     <servers />
   </component>
@@ -227,7 +247,23 @@
           <line>11</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue2/test/Test.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue4/test/Test.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="test.ratio" language="JAVA" />
+        <watch expression="test.singleLinkedList.head.next.next.next" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

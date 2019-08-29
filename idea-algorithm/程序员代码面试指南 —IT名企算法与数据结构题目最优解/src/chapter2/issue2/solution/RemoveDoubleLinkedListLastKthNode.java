@@ -5,7 +5,7 @@ public class RemoveDoubleLinkedListLastKthNode {
     private static class Node {
         public int value;
 
-        public Node Last;
+        public Node last;
         public Node next;
 
         public Node(int value) {
@@ -23,9 +23,9 @@ public class RemoveDoubleLinkedListLastKthNode {
         if (arr != null && arr.length != 0) {
             Node preNode = this.head = new Node(arr[0]);
 
-            for (int i : arr) {
-                preNode.next = new Node(i);
-                preNode.next.Last = preNode;
+            for (int i = 1; i < arr.length; i++) {
+                preNode.next = new Node(arr[i]);
+                preNode.next.last = preNode;
                 preNode = preNode.next;
             }
         }
@@ -41,7 +41,7 @@ public class RemoveDoubleLinkedListLastKthNode {
             }
             if (lastKth == 0) {
                 this.head = this.head.next;
-                this.head.Last = null;
+                this.head.last = null;
             } else if (lastKth < 0) {
                 curNode = this.head;
                 while (++lastKth != 0) {
@@ -49,7 +49,7 @@ public class RemoveDoubleLinkedListLastKthNode {
                 }
                 curNode.next = curNode.next.next;
                 if (curNode.next != null) {
-                    curNode.next.Last = curNode;
+                    curNode.next.last = curNode;
                 }
             }
 
