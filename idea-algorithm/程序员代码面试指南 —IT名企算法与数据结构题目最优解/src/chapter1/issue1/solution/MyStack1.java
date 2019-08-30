@@ -1,7 +1,5 @@
 package chapter1.issue1.solution;
 
-import java.util.Stack;
-
 public class MyStack1 extends AbstractMyStack {
 
     @Override

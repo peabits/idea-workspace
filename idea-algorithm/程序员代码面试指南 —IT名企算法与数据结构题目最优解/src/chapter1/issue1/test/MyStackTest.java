@@ -4,16 +4,13 @@ import chapter1.issue1.solution.MyStack;
 import chapter1.issue1.solution.MyStack1;
 import chapter1.issue1.solution.MyStack2;
 
-public class MyStack1Test {
+public class MyStackTest {
 
     public static void main(String[] args) throws Exception {
-
         MyStack stack1 = new MyStack1();
         MyStack stack2 = new MyStack2();
-
         test(stack1);
         test(stack2);
-
     }
 
     private static void test(MyStack stack) throws Exception {

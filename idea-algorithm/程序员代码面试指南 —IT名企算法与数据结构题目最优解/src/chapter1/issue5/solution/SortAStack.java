@@ -22,7 +22,6 @@ public class SortAStack {
         while (!another.empty()) {
             stack.push(another.pop());
         }
-
     }
 
 }
