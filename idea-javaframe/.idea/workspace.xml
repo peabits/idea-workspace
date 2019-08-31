@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffa4ae72-a904-4142-98f8-d4ef8b61bd5f" name="Default Changelist" comment="" />
+    <list default="true" id="ffa4ae72-a904-4142-98f8-d4ef8b61bd5f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../idea-algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea-algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea-algorithm/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue1/test/TwoLinkedListCommonPartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idea-algorithm/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue1/test/TwoLinkedListCommonPartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea-javase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea-javase/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566636115788</updated>
       <workItem from="1566636117403" duration="35000" />
+      <workItem from="1567243005610" duration="4000" />
     </task>
     <servers />
   </component>
@@ -50,7 +55,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

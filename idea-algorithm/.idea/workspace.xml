@@ -3,17 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="ddb36d1d-8a73-4d15-9af3-c92264a86eed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter1/issue1/solution/MyStack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter1/issue1/solution/MyStack1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter1/issue1/test/MyStack1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter1/issue1/test/MyStackTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter1/issue4/test/CatAndDogQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter1/issue4/test/CatAndDogQueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter1/issue5/solution/SortAStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter1/issue5/solution/SortAStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter1/issue7/test/MaxWindowTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter1/issue7/test/MaxWindowTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue1/test/TwoLinkedListCommonPartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南 —IT名企算法与数据结构题目最优解/src/chapter2/issue1/test/TwoLinkedListCommonPartTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -62,7 +61,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.1383126" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -177,7 +179,9 @@
       <workItem from="1566704574796" duration="1262000" />
       <workItem from="1566975124192" duration="6094000" />
       <workItem from="1567063299360" duration="7599000" />
-      <workItem from="1567089233672" duration="21964000" />
+      <workItem from="1567089233672" duration="22149000" />
+      <workItem from="1567216880353" duration="3775000" />
+      <workItem from="1567238149155" duration="1603000" />
     </task>
     <servers />
   </component>
