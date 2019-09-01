@@ -1,0 +1,22 @@
+
+
+// 构建脚本默认都是一个 project 实例，默认作用域是当前项目
+
+// apply plugin:'java'
+
+plugins {
+    id 'java'
+}
+
+group 'com.imooc.gradle'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories( {
+    mavenCentral()
+} )
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

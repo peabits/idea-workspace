@@ -1,37 +1,32 @@
 package producer_and_consumer;
 
-public class Consumer implements Runnable {
+public class Consumer extends Resource implements Runnable {
 
-    Client client;
-
-    public Consumer(Client client) {
-        this.client = client;
+    public Consumer() {
     }
 
     @Override
     public void run() {
         while (true) {
-            if (this.client.getResources() <= 0) {
-                System.out.println(">>> 资源紧缺");
+            if (Resource.resources <= 0) {
+                System.out.println(">>> 资源紧缺，此时资源数目 = " + Resource.resources);
+                try {
+                    Thread.sleep(10);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
             } else {
                 synchronized (this) {
                     try {
-                        Thread.sleep(100);
+                        Thread.sleep(500);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
-                    this.client.setResources(this.client.getResources()+1);
-                    for (int i = 0; i < this.client.getResources(); ++i) {
-                        System.out.print("*");
-                    }
-                    for (int i = 0; i < 100 - this.client.getResources(); ++i) {
-                        System.out.print("-");
-                    }
-                    System.out.println();
+                    System.out.println(">>> " + Thread.currentThread().getName() + " 消费一个，此时资源数目 = " + (--Resource.resources));
+
                 }
             }
         }
-
     }
 
 }

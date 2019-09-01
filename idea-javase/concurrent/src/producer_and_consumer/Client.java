@@ -2,29 +2,15 @@ package producer_and_consumer;
 
 public class Client {
 
-    private int resources;
-
-    private Client() {
-    }
-
-    public int getResources() {
-        return resources;
-    }
-
-    public void setResources(int resources) {
-        this.resources = resources;
-    }
-
     public static void main(String[] args) {
-        Client client = new Client();
-        Consumer consumer = new Consumer(client);
-        Producer producer = new Producer(client);
-        Thread tc = new Thread(consumer);
-        Thread tp = new Thread(producer);
-        tc.start();
-        tp.start();
-
-
+        Thread tp1 = new Thread(new Producer(), "生产者 1");
+        Thread tp2 = new Thread(new Producer(), "生产者 2");
+        Thread tc1 = new Thread(new Consumer(), "消费者 1");
+        Thread tc2 = new Thread(new Consumer(), "消费者 2");
+        tp1.start();
+        // tp2.start();
+        tc1.start();
+        // tc2.start();
     }
 
 }

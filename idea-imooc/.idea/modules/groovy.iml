@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="com.imooc.gradle" externalSystemModuleVersion="1.0-SNAPSHOT" linkedProjectId="groovy" linkedProjectPath="$MODULE_DIR$/../../imooc-groovy" rootProjectPath="$MODULE_DIR$/../../imooc-groovy" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../imooc-groovy">
+      <excludeFolder url="file://$MODULE_DIR$/../../imooc-groovy/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../imooc-groovy/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

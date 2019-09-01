@@ -1,33 +1,28 @@
 package producer_and_consumer;
 
-public class Producer implements Runnable {
+public class Producer extends Resource implements Runnable {
 
-    Client client;
-
-    public Producer(Client client) {
-        this.client = client;
+    public Producer() {
     }
 
     @Override
     public void run() {
         while (true) {
-            if (this.client.getResources() >= 100) {
-                System.out.println(">>> 生产过量");
+            if (Resource.resources >= 100) {
+                System.out.println(">>> 资源过多，此时资源数目 = " + Resource.resources);
+                try {
+                    Thread.sleep(10);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
             } else {
                 synchronized (this) {
                     try {
-                        Thread.sleep(100);
+                        Thread.sleep(500);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
-                    this.client.setResources(this.client.getResources()+1);
-                    for (int i = 0; i < this.client.getResources(); ++i) {
-                        System.out.print("*");
-                    }
-                    for (int i = 0; i < 100 - this.client.getResources(); ++i) {
-                        System.out.print("-");
-                    }
-                    System.out.println();
+                    System.out.println(">>> " + Thread.currentThread().getName() + " 生产一个，此时资源数目 = " + (++Resource.resources));
                 }
             }
         }
