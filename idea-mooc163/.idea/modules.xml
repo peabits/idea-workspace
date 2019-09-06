@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core-java-II/ch-13/ch-13.iml" filepath="$PROJECT_DIR$/core-java-II/ch-13/ch-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-I/core-java-I.iml" filepath="$PROJECT_DIR$/core-java-I/core-java-I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-java-II/core-java-II.iml" filepath="$PROJECT_DIR$/core-java-II/core-java-II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea-mooc163.iml" filepath="$PROJECT_DIR$/idea-mooc163.iml" />
+    </modules>
+  </component>
+</project>

@@ -2,13 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dd7d5ab-ba78-4cc6-abcb-f89a82571ef6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../idea-imooc/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea-imooc/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/src/producer_and_consumer/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent/src/producer_and_consumer/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/src/producer_and_consumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent/src/producer_and_consumer/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/src/producer_and_consumer/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent/src/producer_and_consumer/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/concurrent/producer_and_consumer/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/concurrent/producer_and_consumer/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/concurrent/producer_and_consumer/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/concurrent/producer_and_consumer/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/concurrent/producer_and_consumer/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/concurrent/producer_and_consumer/Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent/concurrent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javase-concurrent/javase-concurrent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent/src/api/RuntimeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase-concurrent/src/api/RuntimeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent/src/implement/callable/MyThreadImplCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase-concurrent/src/implement/callable/MyThreadImplCallable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent/src/implement/runnable/MyThreadImplRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase-concurrent/src/implement/runnable/MyThreadImplRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent/src/implement/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase-concurrent/src/implement/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent/src/implement/thread/MyThreadImplThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase-concurrent/src/implement/thread/MyThreadImplThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent/src/producer_and_consumer/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase-concurrent/src/producer_and_consumer/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent/src/producer_and_consumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase-concurrent/src/producer_and_consumer/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent/src/producer_and_consumer/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase-concurrent/src/producer_and_consumer/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent/src/producer_and_consumer/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase-concurrent/src/producer_and_consumer/Resource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/model-01/META-INF/model-01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/model-01/some/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/model-01/some/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/model-01/some/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/model-01/some/InterfaceA.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,10 +60,10 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -64,10 +77,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RuntimeImpl">
+  <component name="RunManager" selected="Application.boxedStream">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="producer_and_consumer.Client" />
-      <module name="concurrent" />
+      <module name="javase-concurrent" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="producer_and_consumer.*" />
@@ -78,16 +91,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="some.Demo" />
-      <module name="model-01" />
+    <configuration name="LambdaExpressionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda_expression.LambdaExpressionDemo" />
+      <module name="javase-java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambda_expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="RuntimeImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="api.RuntimeImpl" />
-      <module name="concurrent" />
+      <module name="javase-concurrent" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="api.*" />
@@ -100,7 +119,7 @@
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="implement.test.Test" />
-      <module name="concurrent" />
+      <module name="javase-concurrent" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="implement.test.*" />
@@ -111,14 +130,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="boxedStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.sec03.boxedStream" />
+      <module name="javase-java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch03.sec03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.boxedStream" />
+        <item itemvalue="Application.LambdaExpressionDemo" />
         <item itemvalue="Application.RuntimeImpl" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -135,6 +171,14 @@
       <workItem from="1566705853261" duration="97000" />
       <workItem from="1567242974450" duration="23000" />
       <workItem from="1567243039760" duration="9701000" />
+      <workItem from="1567341500769" duration="647000" />
+      <workItem from="1567400172060" duration="2474000" />
+      <workItem from="1567415543421" duration="1456000" />
+      <workItem from="1567417131804" duration="3511000" />
+      <workItem from="1567693256598" duration="101000" />
+      <workItem from="1567693519959" duration="489000" />
+      <workItem from="1567694069601" duration="191000" />
+      <workItem from="1567694269852" duration="2926000" />
     </task>
     <servers />
   </component>
@@ -153,5 +197,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javase-java8/src/ch03/sec03/boxedStream.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/concurrent/concurrent.iml" filepath="$PROJECT_DIR$/concurrent/concurrent.iml" />
       <module fileurl="file://$PROJECT_DIR$/idea-javase.iml" filepath="$PROJECT_DIR$/idea-javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase-concurrent/javase-concurrent.iml" filepath="$PROJECT_DIR$/javase-concurrent/javase-concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase-java8/javase-java8.iml" filepath="$PROJECT_DIR$/javase-java8/javase-java8.iml" />
     </modules>
   </component>
 </project>

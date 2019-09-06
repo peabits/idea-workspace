@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>core-java-II</artifactId>
+        <groupId>com.mooc163</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>ch-13</artifactId>
+
+    <dependencies>
+
+        <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-math3 -->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-math3</artifactId>
+            <version>3.6.1</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/com.github.servicenow.stl4j/stl-decomp-4j -->
+        <dependency>
+            <groupId>com.github.servicenow.stl4j</groupId>
+            <artifactId>stl-decomp-4j</artifactId>
+            <version>1.0.5</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/com.github.houbb/opencc4j -->
+        <dependency>
+            <groupId>com.github.houbb</groupId>
+            <artifactId>opencc4j</artifactId>
+            <version>1.1.0</version>
+        </dependency>
+
+
+
+    </dependencies>
+
+
+</project>
